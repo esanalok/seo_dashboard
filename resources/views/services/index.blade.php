@@ -100,10 +100,7 @@
 
 @section('page-script')
 <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
-@include('sweet::alert')
 <script>
-
-
 	let table = document.querySelector('.table');
         //window.table1 = table1;
 
