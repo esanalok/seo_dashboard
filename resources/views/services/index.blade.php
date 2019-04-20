@@ -100,7 +100,7 @@
 
 @section('page-script')
 <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
-@include('sweet-alert::alert')
+@include('sweet::alert')
 <script>
 
 
